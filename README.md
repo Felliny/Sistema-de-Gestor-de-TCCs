@@ -8,9 +8,9 @@ O projeto, multiplataforma, tem como objetivo que um professor orientador de TCC
 ****
 
 ## Integrantes:
-- Débora Cristina
-- Luan Camilo
-- Matheus França
+- Débora Cristina https://github.com/DeboraCristina
+- Luan Camilo Nogueira 
+- Matheus França https://github.com/Matheus-Franca-x
 
 # Funcionalidades
 
